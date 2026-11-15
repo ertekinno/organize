@@ -1,0 +1,9 @@
+sources:
+  - Organize.glyphs
+familyName: Organize
+buildVariable: true
+buildStatic: true
+buildOTF: true
+buildWebfont: true
+autohintTTF: true
+outputDir: "../fonts"
