@@ -13,3 +13,5 @@ out/
 posters/
 # Build marker
 build.stamp
+# Teaser video generator (local tool)
+teaser/
